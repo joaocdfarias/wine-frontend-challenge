@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Main should render correctly 1`] = `
+<body>
+  <div>
+    <main
+      class="sc-65b825bc-0 xBKQe container"
+    >
+       
+      <p>
+        Teste
+      </p>
+       
+    </main>
+  </div>
+</body>
+`;
